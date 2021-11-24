@@ -1,0 +1,6 @@
+\contentsline {chapter}{\numberline {1}Grundlagen}{3}%
+\contentsline {section}{\numberline {1.1}Lichtbrechung}{3}%
+\contentsline {section}{\numberline {1.2}Refelektion}{3}%
+\contentsline {section}{\numberline {1.3}Linsen}{3}%
+\contentsline {section}{\numberline {1.4}Asphärische Linsen}{3}%
+\contentsline {section}{\numberline {1.5}Teleskope}{3}%
